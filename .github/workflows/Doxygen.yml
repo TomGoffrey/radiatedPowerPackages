@@ -6,9 +6,10 @@ name: Doxygen Action
 # events but only for the master branch
 on:
   push:
-    branches: [ master ]
+    branches:
+      - "**" # Fix me: Revert to main after testing
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 
   

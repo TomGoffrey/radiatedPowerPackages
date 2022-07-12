@@ -1,0 +1,13 @@
+var searchData=
+[
+  ['calcbfarfield_0',['CalcBFarField',['../namespacerad.html#a1bdc911ab17c958655fc5a7514f13df1',1,'rad']]],
+  ['calcbfield_1',['CalcBField',['../namespacerad.html#a410a9607fe68f0a6c91e34452120603d',1,'rad::CalcBField(const ROOT::Math::XYZPoint fieldPoint, const ROOT::Math::XYZPoint ePosition, const ROOT::Math::XYZVector eVelocity, const ROOT::Math::XYZVector eAcceleration)'],['../namespacerad.html#a6fb52db3d9186616ab9e0af15df065c5',1,'rad::CalcBField(const TVector3 fieldPoint, const TVector3 ePosition, const TVector3 eVelocity, const TVector3 eAcceleration)']]],
+  ['calccyclotronfreq_2',['CalcCyclotronFreq',['../namespacerad.html#a928802636518700a0287e2f930eabe01',1,'rad']]],
+  ['calcefarfield_3',['CalcEFarField',['../namespacerad.html#a5d2ddb3a496c0f0f7084edd1a728f465',1,'rad']]],
+  ['calcefield_4',['CalcEField',['../namespacerad.html#a1331931db845cd3f8e59d7d274e6a228',1,'rad::CalcEField(const ROOT::Math::XYZPoint fieldPoint, const ROOT::Math::XYZPoint ePosition, const ROOT::Math::XYZVector eVelocity, const ROOT::Math::XYZVector eAcceleration)'],['../namespacerad.html#a80ec70516cec852a1d08f12794fda5e4',1,'rad::CalcEField(const TVector3 fieldPoint, const TVector3 ePosition, const TVector3 eVelocity, const TVector3 eAcceleration)']]],
+  ['calcpoyntingvec_5',['CalcPoyntingVec',['../namespacerad.html#a6f9712e2cc1754f85b5ab402d8213721',1,'rad::CalcPoyntingVec(const ROOT::Math::XYZPoint fieldPoint, const ROOT::Math::XYZPoint ePosition, const ROOT::Math::XYZVector eVelocity, const ROOT::Math::XYZVector eAcceleration)'],['../namespacerad.html#a3e168ac853a1307265c294685e8014ce',1,'rad::CalcPoyntingVec(const TVector3 fieldPoint, const TVector3 ePosition, const TVector3 eVelocity, const TVector3 eAcceleration)'],['../namespacerad.html#a2415181e2f0855eefb09fd8698e02795',1,'rad::CalcPoyntingVec(const ROOT::Math::XYZVector EField, const ROOT::Math::XYZVector BField)']]],
+  ['calctimefromretardedtime_6',['CalcTimeFromRetardedTime',['../namespacerad.html#a81213f8574544bf20890176946080751',1,'rad::CalcTimeFromRetardedTime(ROOT::Math::XYZPoint fieldPoint, ROOT::Math::XYZPoint ePosition, double tRet)'],['../namespacerad.html#a7b59e183db4c2695358dee2eb0117d3a',1,'rad::CalcTimeFromRetardedTime(TVector3 fieldPoint, TVector3 ePosition, double tRet)']]],
+  ['calculate_5fomega_7',['calculate_omega',['../namespacerad.html#aee29e394bc75bc2ced61a0c21b6ff074',1,'rad']]],
+  ['centralfreq_8',['centralFreq',['../classrad_1_1_i_antenna.html#a2a51f77947040c90e518dcc7482aacb8',1,'rad::IAntenna']]],
+  ['coilfield_9',['CoilField',['../classrad_1_1_coil_field.html#a7b96b0d0d8f156a598cd743bb5654c54',1,'rad::CoilField::CoilField()'],['../classrad_1_1_coil_field.html',1,'rad::CoilField']]]
+];

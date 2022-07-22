@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['timedelay_0',['timeDelay',['../classrad_1_1_i_antenna.html#a9954d4b2460f1c48d25b66ce8e8748d8',1,'rad::IAntenna']]],
-  ['tritiumdecayrate_1',['TritiumDecayRate',['../namespacerad.html#a0c4a0a7fb2865011524174e372f74115',1,'rad']]]
+  ['uniformfield_0',['UniformField',['../classrad_1_1_uniform_field.html',1,'rad::UniformField'],['../classrad_1_1_uniform_field.html#a47b179ccf3c777e5d88fa6f399349baa',1,'rad::UniformField::UniformField()']]]
 ];

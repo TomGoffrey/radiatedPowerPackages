@@ -153,12 +153,12 @@ Creating electron trajectories</h1>
 <li>A pointer to the magnetic field map (more on this later)</li>
 <li>A ROOT TVector3 of the initial electron position</li>
 <li>A ROOT TVector3 of the initial electron velocity</li>
-<li>The simulation step size to use in seconds (for reference an endpoint electron in a 1T field will have a cyclotron period of about $3.7 \times 10^{-11}$ seconds so 20 steps per orbit would be $1.85 \times 10^{-12}$.</li>
+<li>The simulation step size to use in seconds (for reference an endpoint electron in a 1T field will have a cyclotron period of about <img class="formulaInl" alt="$3.7 \times 10^{-11}$ seconds so 20 steps per orbit would be $1.85 \times 10^{-12}$" src="form_0.png"/>.</li>
 <li>The total time to simulate in seconds</li>
 </ul>
 <p >The optional arguments are:</p><ul>
 <li>The time (in seconds) at which to start the simulation</li>
-<li>The energy loss (which by default is zero). For realistic energy loss this should be set to $2 r_{e} / (3 c)$</li>
+<li>The energy loss (which by default is zero). For realistic energy loss this should be set to <img class="formulaInl" alt="$2 r_{e} / (3 c)$" src="form_1.png"/></li>
 </ul>
 <p >Upon successfuly creation of the <code>ElectronTrajectoryGen</code> object, call the <code>GenerateTraj</code> member function to produce the file.</p>
 <h2><a class="anchor" id="autotoc_md9"></a>
